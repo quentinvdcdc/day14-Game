@@ -1,4 +1,4 @@
-Project by : Quentin Vandecandelaere @Quentin
+Project by : @Quentin
 ***
 
 Pour jouer taper 1ère fois pour x et une 2eme pour y
